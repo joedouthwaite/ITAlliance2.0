@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ITAlliance2.0-MusemHunter0.2", "ITAlliance2.0-MusemHunter0.2.csproj", "{7EA121A5-6DE3-08FA-DE38-6DBDFED7FB93}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ITAlliance2.0-MusemHunter0.2.Plugins", "ITAlliance2.0-MusemHunter0.2.Plugins.csproj", "{98570EA8-AD94-D8F2-C47B-04A48B3CEF14}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ITAlliance2.0-MusemHunter0.2.Editor.Plugins", "ITAlliance2.0-MusemHunter0.2.Editor.Plugins.csproj", "{4F5FE981-F2BF-05DB-F4DA-60B1C31517AD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7EA121A5-6DE3-08FA-DE38-6DBDFED7FB93}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7EA121A5-6DE3-08FA-DE38-6DBDFED7FB93}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7EA121A5-6DE3-08FA-DE38-6DBDFED7FB93}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7EA121A5-6DE3-08FA-DE38-6DBDFED7FB93}.Release|Any CPU.Build.0 = Release|Any CPU
+		{98570EA8-AD94-D8F2-C47B-04A48B3CEF14}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{98570EA8-AD94-D8F2-C47B-04A48B3CEF14}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{98570EA8-AD94-D8F2-C47B-04A48B3CEF14}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{98570EA8-AD94-D8F2-C47B-04A48B3CEF14}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4F5FE981-F2BF-05DB-F4DA-60B1C31517AD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4F5FE981-F2BF-05DB-F4DA-60B1C31517AD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4F5FE981-F2BF-05DB-F4DA-60B1C31517AD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4F5FE981-F2BF-05DB-F4DA-60B1C31517AD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
